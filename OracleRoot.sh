@@ -8,3 +8,4 @@ sudo sed -i 's/^#\?PasswordAuthentication.*/PasswordAuthentication yes/g' /etc/s
 
 sudo service sshd restart
 
+echo "Root password has been set. Now you can login as root user with the root password you just set."
