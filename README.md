@@ -6,9 +6,11 @@
 
 `sudo -i`
 
-然后将脚本下载到当前目录
+将脚本下载到当前目录，比如使用wget：
 
+`wget https://raw.githubusercontent.com/Yiyoki/OracleRoot/main/OracleRoot.sh`
 
+然后执行：
 
 `bash ./oracleRoot.sh YourRootPasswd`
 
