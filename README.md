@@ -2,7 +2,13 @@
 
 开启oracle的root用户用于ssh
 
-使用方法是下载到本地后
+使用方法是先切换到root用户
+
+`sudo -i`
+
+然后将脚本下载到当前目录
+
+
 
 `bash ./oracleRoot.sh YourRootPasswd`
 
