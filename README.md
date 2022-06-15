@@ -5,11 +5,15 @@
 
 将脚本下载到当前目录，比如使用wget：
 
-`wget https://raw.githubusercontent.com/Yiyoki/OracleRoot/main/OracleRoot.sh`
+```
+wget https://raw.githubusercontent.com/Yiyoki/OracleRoot/main/OracleRoot.sh
+```
 
 然后执行：
 
-`bash ./oracleRoot.sh YourRootPasswd`
+```
+bash ./oracleRoot.sh YourRootPasswd
+```
 
 把YourRootPasswd换成你想设置的root密码即可
 
@@ -20,11 +24,15 @@ A simple script used to set the password of root user to login using password in
 
 First, download to script. For example using wget:
 
-`wget https://raw.githubusercontent.com/Yiyoki/OracleRoot/main/OracleRoot.sh`
+```
+wget https://raw.githubusercontent.com/Yiyoki/OracleRoot/main/OracleRoot.sh
+```
 
 then execute it:
 
-`bash ./oracleRoot.sh YourRootPasswd`
+```
+bash ./oracleRoot.sh YourRootPasswd
+```
 
 Replace "YourRootPasswd" here with the root password you want to use
 
